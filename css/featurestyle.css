@@ -35,7 +35,7 @@ ul.reg-ul-green li::before {
   font-weight: bold;
   display: inline-block;
   width: 1rem;
-  margin-left: -1rem;
+  margin-left: 0.5rem;
 }
 
 ul.reg-ul-blue li::before {
@@ -44,7 +44,7 @@ ul.reg-ul-blue li::before {
   font-weight: bold;
   display: inline-block;
   width: 1rem;
-  margin-left: -1rem;
+  margin-left: 0.5rem;
 }
 
 ul.reg-ul-red li::before {
