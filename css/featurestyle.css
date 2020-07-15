@@ -48,12 +48,12 @@ ul.reg-ul-blue li::before {
 }
 
 ul.reg-ul-red li::before {
-  content: "\2022";
-  color: #540300;
+  content: "\2022" !important;
+  color: #540300 !important;
   font-weight: bold;
   display: inline-block;
   width: 1rem;
-  margin-left: -1rem;
+  margin-left: 0.5rem;
 }
 .text-muted {
   color: #6c757d !important;
