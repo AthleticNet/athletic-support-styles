@@ -30,8 +30,8 @@
 }
 
 ul.reg-ul-green li::before {
-  content: "\2022";
-  color: #374f3f;
+  content: "\2022" !important;
+  color: #374f3f !important;
   font-weight: bold;
   display: inline-block;
   width: 1rem;
@@ -39,8 +39,8 @@ ul.reg-ul-green li::before {
 }
 
 ul.reg-ul-blue li::before {
-  content: "\2022";
-  color: #31537a;
+  content: "\2022" !important;
+  color: #31537a !important;
   font-weight: bold;
   display: inline-block;
   width: 1rem;
