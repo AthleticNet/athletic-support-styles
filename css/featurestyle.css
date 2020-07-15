@@ -29,6 +29,32 @@
   line-height: 2;
 }
 
+ul.reg-ul-green li::before {
+  content: "\2022";
+  color: #374f3f;
+  font-weight: bold;
+  display: inline-block;
+  width: 1rem;
+  margin-left: -1rem;
+}
+
+ul.reg-ul-blue li::before {
+  content: "\2022";
+  color: #31537a;
+  font-weight: bold;
+  display: inline-block;
+  width: 1rem;
+  margin-left: -1rem;
+}
+
+ul.reg-ul-red li::before {
+  content: "\2022";
+  color: #540300;
+  font-weight: bold;
+  display: inline-block;
+  width: 1rem;
+  margin-left: -1rem;
+}
 .text-muted {
   color: #6c757d !important;
   font-size: 12px;
