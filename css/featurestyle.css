@@ -201,6 +201,14 @@ a.chevron-rightr05::after {
   margin-right: 0.5rem;
 }
 
+.ml025 {
+  margin-left: 0.25rem;
+}
+
+.mr025 {
+  margin-right: 0.25rem;
+}
+
 .mb05 {
   margin-bottom: 0.5rem;
 }
