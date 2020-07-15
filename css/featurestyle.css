@@ -354,6 +354,7 @@ li::before {
   font-size: 1.25rem;
   font-weight: 500;
   line-height: 1.1;
+  margin-bottom: 1rem;
 }
 
 .button {
