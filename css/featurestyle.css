@@ -147,19 +147,19 @@ img.round-image {
 }
 
 .redfill {
-  color: #fff;
+  color: #fff !important;
   background-color: #540300 !important;
   border-color: #000 !important;
 }
 
 .greenfill {
-  color: #fff;
+  color: #fff !important;
   background-color: #374f3f !important;
   border-color: #000 !important;
 }
 
 .bluefill {
-  color: #fff;
+  color: #fff !important;
   background-color: #31537a !important;
   border-color: #000 !important;
 }
