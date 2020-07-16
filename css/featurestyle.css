@@ -472,6 +472,9 @@ div.title-block h1 {
   position: relative;
 }
 
+.graffiti {
+  filter: brightness(0) saturate(100%) invert(10%) sepia(39%) saturate(7474%) hue-rotate(356deg) brightness(90%) contrast(110%);
+}
 
 @media screen and (max-width: 600px) {
   .listL {
