@@ -146,6 +146,24 @@ img.round-image {
   border-color: #31537a !important;
 }
 
+.redfill {
+  color: #fff;
+  background-color: #540300 !important;
+  border-color: #000 !important;
+}
+
+.greenfill {
+  color: #fff;
+  background-color: #374f3f !important;
+  border-color: #000 !important;
+}
+
+.bluefill {
+  color: #fff;
+  background-color: #31537a !important;
+  border-color: #000 !important;
+}
+
 a.chevron-downl1::after {
   content: "\f078";
   font-weight: 500;
@@ -398,6 +416,8 @@ li::before {
   line-height: 1.5 !important;
   border-radius: 0.17rem !important;
 }
+
+
 
 .title-block {
   width: 100%;
