@@ -21,7 +21,8 @@
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-#featureslist ul.fa-ul {
+#featureslist ul.fa-ul,
+#freefeatureslist ul.fa-ul {
   list-style-type: none;
   margin-left: 2.5em;
   padding-left: 0;
